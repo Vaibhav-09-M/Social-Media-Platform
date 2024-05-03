@@ -1,0 +1,11 @@
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/model/PostRequest.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/controller/Home.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/TwitterApplication.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/model/CommentRequest.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/dao/UserRepository.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/model/Comment1.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/model/User1.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/model/Post.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/dao/CommentRepository.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/dao/PostRepository.java
+/Users/vaibhavmittal/Desktop/twitterv2/src/main/java/com/management/twitter/service/TwitterService.java
